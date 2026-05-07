@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+.claude/
+
+# Course-issued reference materials (do not redistribute)
+files/
+
+# Raw datasets (large, fetched separately)
+data/
+
+# Performance evaluation outputs (run-specific)
+docs/perf_baseline.txt
+docs/perf_indexed.txt
